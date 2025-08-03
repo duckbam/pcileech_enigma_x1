@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Aug  3 21:42:51 2025
+# Process ID: 14732
+# Current directory: C:/Users/duck/Desktop/pcileech-fpga-master/EnigmaX1/pcileech_enigma_x1/pcileech_enigma_x1.runs/pcie_7x_0_synth_1
+# Command line: vivado.exe -log pcie_7x_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pcie_7x_0.tcl
+# Log file: C:/Users/duck/Desktop/pcileech-fpga-master/EnigmaX1/pcileech_enigma_x1/pcileech_enigma_x1.runs/pcie_7x_0_synth_1/pcie_7x_0.vds
+# Journal file: C:/Users/duck/Desktop/pcileech-fpga-master/EnigmaX1/pcileech_enigma_x1/pcileech_enigma_x1.runs/pcie_7x_0_synth_1\vivado.jou
+# Running On        :DDIYZYM-KOTN3IR
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :13th Gen Intel(R) Core(TM) i7-13650HX
+# CPU Frequency     :2803 MHz
+# CPU Physical cores:14
+# CPU Logical cores :20
+# Host memory       :16776 MB
+# Swap memory       :6174 MB
+# Total Virtual     :22950 MB
+# Available Virtual :9609 MB
+#-----------------------------------------------------------
+source pcie_7x_0.tcl -notrace
